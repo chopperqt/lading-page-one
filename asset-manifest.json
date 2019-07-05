@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lading-page-one/static/css/main.da79d1df.chunk.css",
+    "main.css": "/lading-page-one/static/css/main.e88ddefa.chunk.css",
     "main.js": "/lading-page-one/static/js/main.b502433c.chunk.js",
     "main.js.map": "/lading-page-one/static/js/main.b502433c.chunk.js.map",
     "runtime~main.js": "/lading-page-one/static/js/runtime~main.67373463.js",
@@ -8,9 +8,9 @@
     "static/js/2.e08b529a.chunk.js": "/lading-page-one/static/js/2.e08b529a.chunk.js",
     "static/js/2.e08b529a.chunk.js.map": "/lading-page-one/static/js/2.e08b529a.chunk.js.map",
     "index.html": "/lading-page-one/index.html",
-    "precache-manifest.9e642cdf19a6c14ceec6f6c4a1a5a36b.js": "/lading-page-one/precache-manifest.9e642cdf19a6c14ceec6f6c4a1a5a36b.js",
+    "precache-manifest.b2e7925972d07f1ca25016c791e23894.js": "/lading-page-one/precache-manifest.b2e7925972d07f1ca25016c791e23894.js",
     "service-worker.js": "/lading-page-one/service-worker.js",
-    "static/css/main.da79d1df.chunk.css.map": "/lading-page-one/static/css/main.da79d1df.chunk.css.map",
+    "static/css/main.e88ddefa.chunk.css.map": "/lading-page-one/static/css/main.e88ddefa.chunk.css.map",
     "static/media/main.css": "/lading-page-one/static/media/skills2.60f3818e.png",
     "static/media/profile.png": "/lading-page-one/static/media/profile.5a8cb8cb.png"
   }
